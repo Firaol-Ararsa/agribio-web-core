@@ -87,11 +87,11 @@ export default function About() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 w-full">
               <div className="p-6 bg-white border border-slate-200 rounded-xl text-center shadow-sm">
                 <h5 className="font-bold text-slate-800 mb-2">Research Division</h5>
-                <p className="text-xs text-slate-500">Crops, Animals, Microbes</p>
+                <p className="text-xs text-slate-500">Plant Biotech, Animal Biotech, Microbial Biotech</p>
               </div>
               <div className="p-6 bg-white border border-slate-200 rounded-xl text-center shadow-sm">
                 <h5 className="font-bold text-slate-800 mb-2">Operations Division</h5>
-                <p className="text-xs text-slate-500">Finance, HR, Logistics</p>
+                <p className="text-xs text-slate-500">Finance, HR, ICT</p>
               </div>
               <div className="p-6 bg-white border border-slate-200 rounded-xl text-center shadow-sm">
                 <h5 className="font-bold text-slate-800 mb-2">Services Division</h5>
