@@ -27,7 +27,7 @@ export default function Home() {
             className="max-w-3xl"
           >
             <span className="inline-block px-4 py-1.5 rounded-full bg-green-600/20 text-green-400 text-sm font-semibold mb-6 border border-green-500/30">
-              National Agricultural Biotech Center
+              National Agricultural Biotechnology research Center
             </span>
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
               {content.home.hero.title}
