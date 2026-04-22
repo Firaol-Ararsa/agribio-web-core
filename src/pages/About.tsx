@@ -32,7 +32,7 @@ export default function About() {
             </p>
           </div>
           <div className="bg-green-50 p-8 rounded-3xl border border-green-100">
-            <h3 className="text-2xl font-bold text-green-800 mb-6">Institutional Objectives</h3>
+            <h3 className="text-2xl font-bold text-green-800 mb-6">Center Objectives</h3>
             <ul className="space-y-4">
               {[
                 "Develop climate-resilient crop varieties through genetic improvement.",
@@ -80,9 +80,9 @@ export default function About() {
         </div>
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-col items-center">
-            <div className="p-6 bg-green-700 text-white rounded-xl font-bold w-64 text-center mb-8 shadow-lg">Board of Directors</div>
+            <div className="p-6 bg-green-700 text-white rounded-xl font-bold w-64 text-center mb-8 shadow-lg">Director General</div>
             <div className="w-0.5 h-12 bg-slate-200 mb-8" />
-            <div className="p-6 bg-slate-800 text-white rounded-xl font-bold w-64 text-center mb-8 shadow-md">Director General</div>
+            <div className="p-6 bg-slate-800 text-white rounded-xl font-bold w-64 text-center mb-8 shadow-md">Center Director</div>
             <div className="w-0.5 h-12 bg-slate-200" />
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 w-full">
               <div className="p-6 bg-white border border-slate-200 rounded-xl text-center shadow-sm">
@@ -95,7 +95,7 @@ export default function About() {
               </div>
               <div className="p-6 bg-white border border-slate-200 rounded-xl text-center shadow-sm">
                 <h5 className="font-bold text-slate-800 mb-2">Services Division</h5>
-                <p className="text-xs text-slate-500">Labs, Training, Extension</p>
+                <p className="text-xs text-slate-500">Labs, Training, Internship</p>
               </div>
             </div>
           </div>
