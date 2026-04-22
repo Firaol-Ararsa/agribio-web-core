@@ -15,7 +15,7 @@ export default function About() {
     <div className="pt-20">
       <PageHeader 
         title="About NABRC" 
-        subtitle="The National Agricultural Biotechnology Research Center is a premier institution dedicated to advancing life sciences in agriculture."
+        subtitle="The National Agricultural Biotechnology Research Center is a premier center dedicated to advancing life sciences in agriculture."
         image={content.images.greenhouse}
       />
 
