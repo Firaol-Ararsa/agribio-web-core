@@ -75,7 +75,7 @@ export default function About() {
 
       <Section>
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-4">Organizational Structure</h2>
+          <h2 className="text-3xl font-bold mb-4">Center Structure</h2>
           <p className="text-slate-600">NABRC operates under a robust governance model to ensure scientific excellence and efficiency.</p>
         </div>
         <div className="max-w-4xl mx-auto">
