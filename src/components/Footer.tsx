@@ -54,15 +54,15 @@ export function Footer() {
             <h4 className="text-white font-semibold mb-6">Contact Us</h4>
             <div className="flex items-start space-x-3">
               <MapPin className="w-5 h-5 text-green-500 shrink-0" />
-              <span>123 Biotech Ave, Research Park, Science City, SC 45678</span>
+              <span>Holeta Biotech 44, Holeta City, </span>
             </div>
             <div className="flex items-center space-x-3">
               <Phone className="w-5 h-5 text-green-500 shrink-0" />
-              <span>+1 (234) 567-8900</span>
+              <span>+251 (9) 40-50-50-20</span>
             </div>
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5 text-green-500 shrink-0" />
-              <span>info@nabrc.gov</span>
+              <span>info@nabrc.gov.et</span>
             </div>
           </div>
         </div>
